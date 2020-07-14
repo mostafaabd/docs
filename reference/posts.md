@@ -26,7 +26,7 @@
 				<code>date_gmt</code><br />
 				<span class="type">
 					Array,
-													datetime ([details](https://core.trac.wordpress.org/ticket/41032))
+													datetime ([details](https://core.trac.wordpress.org/ticket/41032)
 										</span>
 			</td>
 			<td>
